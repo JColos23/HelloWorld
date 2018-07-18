@@ -52,7 +52,7 @@
     "priceCurrency": "PESO",
     "lat": 16.662260,
     "lng": 120.325057
-  }
+  },
   {
     "id": 212,
     "name": "My Home",

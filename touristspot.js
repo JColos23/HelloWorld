@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "Tangadan Falls, San Gabriel, La Union",
+    "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/img_7602.jpg",
     "price": 60,
     "priceCurrency": "PESO",
@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "Bauang Beach San Fernando La Union",
+    "name": "Bauang Beach",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/xbauang-beach-la-union.jpg.pagespeed.ic.O8pW6D2bFI.jpg",
     "price": 70,
     "priceCurrency": "PESO",
@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Bahay na Bato Luna",
+    "name": "Bahay na Bato",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/La-Union-Bahay-na-Bato-Featured-Image-1.jpg",
     "price": 70,
     "priceCurrency": "PESO",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Pugad Pugo Adventure",
+    "name": "Pugad Adventure",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/10153994_719016188159351_128962008_n-e1509602831191.jpg",
     "price": 115,
     "priceCurrency": "PESO",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Basilica Minore of Our Lady of Charity, Agoo",
+    "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/p-20160322-132835-largejpg.jpg",
     "price": 30,
     "priceCurrency": "PESO",
@@ -46,7 +46,7 @@
   },
   {
     "id": 211,
-    "name": "La Union Surf School San Juan",
+    "name": "La Union Surf School",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/surf-lessons-10.png",
     "price": 15,
     "priceCurrency": "PESO",

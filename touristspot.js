@@ -10,12 +10,12 @@
   },
   {
     "id": 148,
-    "name": "Ma-Cho Temple San Fernando La Union",
+    "name": "Bauang Beach San Fernando La Union",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/_DSC7038x.JPG",
-    "price": 7,
+    "price": 70,
     "priceCurrency": "PESO",
-    "lat": 16.621167,
-    "lng": 120.317475
+    "lat": 16.564152,
+    "lng": 120.320624
   },
   {
     "id": 201,

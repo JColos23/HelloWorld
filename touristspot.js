@@ -2,29 +2,29 @@
   {
     "id": 145,
     "name": "Tangadan Falls, San Gabriel, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
-    "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/img_7602.jpg",
+    "price": 60,
+    "priceCurrency": "PESO",
+    "lat": 16.6436,
+    "lng": 120.4488
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "Ma-Cho Temple San Fernando La Union",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/_DSC7038x.JPG",
+    "price": 7,
+    "priceCurrency": "PESO",
+    "lat": 16.621167,
+    "lng": 120.317475
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "name": "Bahay na Bato Luna",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/La-Union-Bahay-na-Bato-Featured-Image-1.jpg",
+    "price": 70,
+    "priceCurrency": "PESO",
+    "lat": 16.847435,
+    "lng": 120.351380
   },
   {
     "id": 205,

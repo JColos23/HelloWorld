@@ -53,4 +53,13 @@
     "lat": 16.662260,
     "lng": 120.325057
   }
+  {
+    "id": 212,
+    "name": "My Home",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/Capture.PNG",
+    "price": 21,
+    "priceCurrency": "PESO",
+    "lat": 16.673816,
+    "lng": 120.400284
+  }
 ]

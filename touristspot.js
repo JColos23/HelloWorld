@@ -28,29 +28,29 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Pugad Pugo Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/10153994_719016188159351_128962008_n-e1509602831191.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "priceCurrency": "PESO",
+    "lat": 16.336690,
+    "lng": 120.478871
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Basilica Minore of Our Lady of Charity, Agoo",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/p-20160322-132835-largejpg.jpg",
+    "price": 30,
+    "priceCurrency": "PESO",
+    "lat": 16.324747,
+    "lng": 120.355142
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "name": "La Union Surf School San Juan",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/surf-lessons-10.png",
+    "price": 15,
+    "priceCurrency": "PESO",
+    "lat": 16.662260,
+    "lng": 120.325057
   }
 ]

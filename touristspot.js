@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Bauang Beach San Fernando La Union",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/_DSC7038x.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/xbauang-beach-la-union.jpg.pagespeed.ic.O8pW6D2bFI.jpg",
     "price": 70,
     "priceCurrency": "PESO",
     "lat": 16.564152,

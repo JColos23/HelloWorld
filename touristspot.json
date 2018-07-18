@@ -46,15 +46,6 @@
   },
   {
     "id": 211,
-    "name": "La Union Surf School",
-    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/surf-lessons-10.png",
-    "price": 15,
-    "priceCurrency": "PESO",
-    "lat": 16.662260,
-    "lng": 120.325057
-  },
-  {
-    "id": 212,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/Capture.PNG",
     "price": 21,

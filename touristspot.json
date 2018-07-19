@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://github.com/JColos23/HelloWorld/blob/master/basilica.gif",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/basilicahj.gif",
     "price": 30,
     "priceCurrency": "PESO",
     "lat": 16.324747,

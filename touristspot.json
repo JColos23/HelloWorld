@@ -61,5 +61,14 @@
     "priceCurrency": "PESO",
     "lat": 16.612517,
     "lng": 120.284775
+  },
+  {
+    "id": 215,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/pindangan.gif",
+    "price": 20,
+    "priceCurrency": "PESO",
+    "lat": 16.612517,
+    "lng": 120.284775
   }
 ]

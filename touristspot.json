@@ -70,5 +70,14 @@
     "priceCurrency": "PESO",
     "lat": 16.612517,
     "lng": 120.284775
+  },
+  {
+    "id": 216,
+    "name": "Macho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/macho.gif",
+    "price": 20,
+    "priceCurrency": "PESO",
+    "lat": 16.612517,
+    "lng": 120.284775
   }
 ]

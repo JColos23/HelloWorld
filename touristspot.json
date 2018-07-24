@@ -79,5 +79,14 @@
     "priceCurrency": "PESO",
     "lat": 16.6212054,
     "lng": 120.3153105
+  },
+  {
+    "id": 216,
+    "name": "Tudingan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/tudingan.gif",
+    "price": 45,
+    "priceCurrency": "PESO",
+    "lat": 16.5752027,
+    "lng": 120.4152417
   }
 ]

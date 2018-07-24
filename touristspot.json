@@ -81,12 +81,30 @@
     "lng": 120.3153105
   },
   {
-    "id": 216,
+    "id": 217,
     "name": "Tudingan Falls",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/tudingan.gif",
     "price": 45,
     "priceCurrency": "PESO",
     "lat": 16.5752027,
     "lng": 120.4152417
+  },
+  {
+    "id": 218,
+    "name": "Grape Farm",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/grape.gif",
+    "price": 60,
+    "priceCurrency": "PESO",
+    "lat": 16.4610917,
+    "lng": 120.3317155
+  },
+  {
+    "id": 219,
+    "name": "Baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/HelloWorld/master/baluarte.gif",
+    "price": 27,
+    "priceCurrency": "PESO",
+    "lat": 16.856813,
+    "lng": 120.3706728
   }
 ]
